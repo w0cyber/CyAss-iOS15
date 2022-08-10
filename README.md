@@ -31,6 +31,6 @@ CyAss is a free tool to bypass (Hactivate) all checkm8 vulnerable devices on iOS
    - [Activate](https://github.com/Brayan-Villa/iOS15-Bypass-Hello/blob/main/Activate.sh) 
 works on Linux, Mac, Windows
 # Thanks to
-- MagicCFG](https://github.com/j4nf4b3l/MagicCFG)
+- [MagicCFG](https://github.com/j4nf4b3l/MagicCFG)
 - [Brayan-Villa](https://github.com/Brayan-Villa)
 - [panktonWhc](https://github.com/planktonwhc/iBoy-RAM)
